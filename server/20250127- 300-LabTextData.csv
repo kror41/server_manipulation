@@ -1,0 +1,870 @@
+VisitID,SpecimenID,TestPrintNumberID,ResultGroupCannedTextID,NumberID,Line
+X1003615367,5529415,700.9028,BINAXNOWAG,10, 
+X1003615339,5529281,700.9028,BINAXNOWAG,10, 
+X1003615322,5529194,700.9028,BINAXNOWAG,10, 
+X1003615299,5529142,700.9028,BINAXNOWAG,10, 
+X1003615321,5529189,700.9028,BINAXNOWAG,10, 
+X1003615262,5529053,700.9028,BINAXNOWAG,10, 
+X1003615263,5529058,700.9028,BINAXNOWAG,10, 
+X1003615358,5529358,700.9028,BINAXNOWAG,10, 
+X1003615363,5529392,700.9028,BINAXNOWAG,10, 
+X1003615351,5529308,700.9028,BINAXNOWAG,10, 
+X1003615338,5529291,700.9028,BINAXNOWAG,10, 
+X1003615330,5529259,700.9028,BINAXNOWAG,10, 
+X1003615332,5529261,700.9028,BINAXNOWAG,10, 
+X1003615342,5529301,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615346,5529327,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615352,5529333,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615361,5529334,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615353,5529340,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615359,5529354,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615368,5529397,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615390,5529464,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615387,5529467,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615393,5529461,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615379,5529418,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615329,5529249,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615328,5529209,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615266,5529044,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615289,5529116,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615377,5529443,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615367,5529415,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615339,5529281,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615322,5529194,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615299,5529142,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615321,5529189,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615262,5529053,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615263,5529058,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615358,5529358,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615363,5529392,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615351,5529308,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615338,5529291,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615330,5529259,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615332,5529261,700.9028,BINAXNOWAG,11,Negative results  from patients with symptom onset beyond
+X1003615342,5529301,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615346,5529327,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615352,5529333,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615361,5529334,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615353,5529340,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615359,5529354,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615368,5529397,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615390,5529464,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615387,5529467,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615393,5529461,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615379,5529418,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615329,5529249,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615328,5529209,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615266,5529044,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615289,5529116,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615377,5529443,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615367,5529415,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615339,5529281,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615322,5529194,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615299,5529142,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615321,5529189,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615262,5529053,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615263,5529058,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615358,5529358,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615363,5529392,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615351,5529308,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615338,5529291,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615330,5529259,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615332,5529261,700.9028,BINAXNOWAG,12,seven days should be treated as presumptive and
+X1003615342,5529301,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615346,5529327,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615352,5529333,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615361,5529334,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615353,5529340,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615359,5529354,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615368,5529397,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615390,5529464,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615387,5529467,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615393,5529461,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615379,5529418,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615329,5529249,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615328,5529209,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615266,5529044,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615289,5529116,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615377,5529443,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615367,5529415,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615339,5529281,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615322,5529194,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615299,5529142,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615321,5529189,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615262,5529053,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615263,5529058,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615358,5529358,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615363,5529392,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615351,5529308,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615338,5529291,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615330,5529259,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615332,5529261,700.9028,BINAXNOWAG,13,confirmation with molecular assay ifnecessary for patient
+X1003615342,5529301,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615346,5529327,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615352,5529333,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615361,5529334,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615353,5529340,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615359,5529354,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615368,5529397,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615390,5529464,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615387,5529467,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615393,5529461,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615379,5529418,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615329,5529249,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615328,5529209,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615266,5529044,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615289,5529116,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615377,5529443,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615367,5529415,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615339,5529281,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615322,5529194,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615299,5529142,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615321,5529189,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615262,5529053,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615263,5529058,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615358,5529358,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615363,5529392,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615351,5529308,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615338,5529291,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615330,5529259,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615332,5529261,700.9028,BINAXNOWAG,14,management may be performed.
+X1003615269,5529075,700.8049,BTA,1,BY IMMUNOCROMATOGRAPHIC
+X1003615363,5529395,700.8049,BTA,1,BY IMMUNOCROMATOGRAPHIC
+X1003615266,5529040,200.2010,DDIMER,1,NORMAL VALUE (NEGATIVE)  < 0.58  mg/L
+X1003615377,5529457,200.2010,DDIMER,1,NORMAL VALUE (NEGATIVE)  < 0.58  mg/L
+X1003615266,5529040,200.2010,DDIMER,2, 
+X1003615377,5529457,200.2010,DDIMER,2, 
+X1003615266,5529040,200.2010,DDIMER,3,             POSITIVE    >= 0.58 mg/L
+X1003615377,5529457,200.2010,DDIMER,3,             POSITIVE    >= 0.58 mg/L
+X1003615266,5529040,200.2010,DDIMER,4, 
+X1003615377,5529457,200.2010,DDIMER,4, 
+X1003615266,5529040,200.2010,DDIMER,5,The Innovance D-Dimer method should not be used as absolute
+X1003615377,5529457,200.2010,DDIMER,5,The Innovance D-Dimer method should not be used as absolute
+X1003615266,5529040,200.2010,DDIMER,6,evidence for PE or DVT. As with all in vitro diagnostic
+X1003615377,5529457,200.2010,DDIMER,6,evidence for PE or DVT. As with all in vitro diagnostic
+X1003615266,5529040,200.2010,DDIMER,7,test the test result should be interpreted by the physician
+X1003615377,5529457,200.2010,DDIMER,7,test the test result should be interpreted by the physician
+X1003615266,5529040,200.2010,DDIMER,8,in conjuction with clinical finding and other test result.
+X1003615377,5529457,200.2010,DDIMER,8,in conjuction with clinical finding and other test result.
+X1003615359,5529356,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615363,5529394,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615335,5529255,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615270,5529087,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615277,5529090,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615351,5529310,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615378,5529412,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615353,5529342,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615300,5529150,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615377,5529433,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615387,5529471,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615358,5529396,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615368,5529401,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615388,5529490,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615276,5529077,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615269,5529074,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615266,5529041,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615318,5529180,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615313,5529181,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615314,5529173,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615326,5529208,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615279,5529095,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615316,5529185,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615334,5529247,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615325,5529197,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615299,5529144,400.44011,GFR,1, STAGES OF CHRONIC KIDNEY DISEASE
+X1003615359,5529356,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615363,5529394,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615335,5529255,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615270,5529087,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615277,5529090,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615351,5529310,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615378,5529412,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615353,5529342,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615300,5529150,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615377,5529433,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615387,5529471,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615358,5529396,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615368,5529401,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615388,5529490,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615276,5529077,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615269,5529074,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615266,5529041,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615318,5529180,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615313,5529181,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615314,5529173,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615326,5529208,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615279,5529095,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615316,5529185,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615334,5529247,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615325,5529197,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615299,5529144,400.44011,GFR,2,  GFR         STAGE          DESCRIPTION
+X1003615359,5529356,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615363,5529394,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615335,5529255,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615270,5529087,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615277,5529090,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615351,5529310,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615378,5529412,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615353,5529342,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615300,5529150,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615377,5529433,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615387,5529471,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615358,5529396,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615368,5529401,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615388,5529490,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615276,5529077,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615269,5529074,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615266,5529041,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615318,5529180,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615313,5529181,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615314,5529173,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615326,5529208,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615279,5529095,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615316,5529185,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615334,5529247,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615325,5529197,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615299,5529144,400.44011,GFR,3, >90           1      Normal or Elevated Kidney Function
+X1003615359,5529356,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615363,5529394,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615335,5529255,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615270,5529087,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615277,5529090,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615351,5529310,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615378,5529412,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615353,5529342,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615300,5529150,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615377,5529433,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615387,5529471,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615358,5529396,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615368,5529401,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615388,5529490,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615276,5529077,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615269,5529074,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615266,5529041,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615318,5529180,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615313,5529181,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615314,5529173,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615326,5529208,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615279,5529095,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615316,5529185,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615334,5529247,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615325,5529197,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615299,5529144,400.44011,GFR,4, 60-89         2      Mild or Decreased Kidney Function
+X1003615359,5529356,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615363,5529394,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615335,5529255,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615270,5529087,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615277,5529090,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615351,5529310,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615378,5529412,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615353,5529342,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615300,5529150,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615377,5529433,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615387,5529471,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615358,5529396,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615368,5529401,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615388,5529490,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615276,5529077,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615269,5529074,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615266,5529041,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615318,5529180,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615313,5529181,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615314,5529173,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615326,5529208,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615279,5529095,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615316,5529185,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615334,5529247,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615325,5529197,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615299,5529144,400.44011,GFR,5, 30-59         3      Moderate Decreased Kidney Fuction
+X1003615359,5529356,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615363,5529394,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615335,5529255,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615270,5529087,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615277,5529090,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615351,5529310,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615378,5529412,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615353,5529342,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615300,5529150,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615377,5529433,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615387,5529471,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615358,5529396,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615368,5529401,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615388,5529490,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615276,5529077,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615269,5529074,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615266,5529041,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615318,5529180,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615313,5529181,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615314,5529173,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615326,5529208,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615279,5529095,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615316,5529185,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615334,5529247,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615325,5529197,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615299,5529144,400.44011,GFR,6, 15-29         4      Severe Decreased Kidney Function
+X1003615359,5529356,400.44011,GFR,7, <15           5      Renal Failure
+X1003615363,5529394,400.44011,GFR,7, <15           5      Renal Failure
+X1003615335,5529255,400.44011,GFR,7, <15           5      Renal Failure
+X1003615270,5529087,400.44011,GFR,7, <15           5      Renal Failure
+X1003615277,5529090,400.44011,GFR,7, <15           5      Renal Failure
+X1003615351,5529310,400.44011,GFR,7, <15           5      Renal Failure
+X1003615378,5529412,400.44011,GFR,7, <15           5      Renal Failure
+X1003615353,5529342,400.44011,GFR,7, <15           5      Renal Failure
+X1003615300,5529150,400.44011,GFR,7, <15           5      Renal Failure
+X1003615377,5529433,400.44011,GFR,7, <15           5      Renal Failure
+X1003615387,5529471,400.44011,GFR,7, <15           5      Renal Failure
+X1003615358,5529396,400.44011,GFR,7, <15           5      Renal Failure
+X1003615368,5529401,400.44011,GFR,7, <15           5      Renal Failure
+X1003615388,5529490,400.44011,GFR,7, <15           5      Renal Failure
+X1003615276,5529077,400.44011,GFR,7, <15           5      Renal Failure
+X1003615269,5529074,400.44011,GFR,7, <15           5      Renal Failure
+X1003615266,5529041,400.44011,GFR,7, <15           5      Renal Failure
+X1003615318,5529180,400.44011,GFR,7, <15           5      Renal Failure
+X1003615313,5529181,400.44011,GFR,7, <15           5      Renal Failure
+X1003615314,5529173,400.44011,GFR,7, <15           5      Renal Failure
+X1003615326,5529208,400.44011,GFR,7, <15           5      Renal Failure
+X1003615279,5529095,400.44011,GFR,7, <15           5      Renal Failure
+X1003615316,5529185,400.44011,GFR,7, <15           5      Renal Failure
+X1003615334,5529247,400.44011,GFR,7, <15           5      Renal Failure
+X1003615325,5529197,400.44011,GFR,7, <15           5      Renal Failure
+X1003615299,5529144,400.44011,GFR,7, <15           5      Renal Failure
+X1003615359,5529356,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615363,5529394,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615335,5529255,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615270,5529087,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615277,5529090,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615351,5529310,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615378,5529412,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615353,5529342,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615300,5529150,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615377,5529433,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615387,5529471,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615358,5529396,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615368,5529401,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615388,5529490,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615276,5529077,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615269,5529074,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615266,5529041,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615318,5529180,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615313,5529181,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615314,5529173,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615326,5529208,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615279,5529095,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615316,5529185,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615334,5529247,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615325,5529197,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615299,5529144,400.44011,GFR,8, GFR units :(ml/min/1.73m^2)
+X1003615351,5529310,400.8846,HCGQQ,1,          EXPECTED RANGE FOR HCG Q
+X1003615317,5529176,400.8846,HCGQQ,1,          EXPECTED RANGE FOR HCG Q
+X1003615351,5529310,400.8846,HCGQQ,2, 
+X1003615317,5529176,400.8846,HCGQQ,2, 
+X1003615351,5529310,400.8846,HCGQQ,3,             FEMALES PREGNANT
+X1003615317,5529176,400.8846,HCGQQ,3,             FEMALES PREGNANT
+X1003615351,5529310,400.8846,HCGQQ,4, 
+X1003615317,5529176,400.8846,HCGQQ,4, 
+X1003615351,5529310,400.8846,HCGQQ,5,Weeks         mIU/ML
+X1003615317,5529176,400.8846,HCGQQ,5,Weeks         mIU/ML
+X1003615351,5529310,400.8846,HCGQQ,6,-------------------------------
+X1003615317,5529176,400.8846,HCGQQ,6,-------------------------------
+X1003615351,5529310,400.8846,HCGQQ,7,0.2-1         5-50
+X1003615317,5529176,400.8846,HCGQQ,7,0.2-1         5-50
+X1003615351,5529310,400.8846,HCGQQ,8,1-2           50-500
+X1003615317,5529176,400.8846,HCGQQ,8,1-2           50-500
+X1003615351,5529310,400.8846,HCGQQ,9,2-3           100-5000
+X1003615317,5529176,400.8846,HCGQQ,9,2-3           100-5000
+X1003615351,5529310,400.8846,HCGQQ,10,3-4           500-10000
+X1003615317,5529176,400.8846,HCGQQ,10,3-4           500-10000
+X1003615351,5529310,400.8846,HCGQQ,11,4-5           1000-50000
+X1003615317,5529176,400.8846,HCGQQ,11,4-5           1000-50000
+X1003615351,5529310,400.8846,HCGQQ,12,5-6           10000-100000
+X1003615317,5529176,400.8846,HCGQQ,12,5-6           10000-100000
+X1003615351,5529310,400.8846,HCGQQ,13,6-8           15000-200000
+X1003615317,5529176,400.8846,HCGQQ,13,6-8           15000-200000
+X1003615351,5529310,400.8846,HCGQQ,14,2-3 meses     10000-100000
+X1003615317,5529176,400.8846,HCGQQ,14,2-3 meses     10000-100000
+X1003615351,5529310,400.8846,HCGQQ,15,_______________________________
+X1003615317,5529176,400.8846,HCGQQ,15,_______________________________
+X1003615377,5529458,200.0300,INRC,1, 
+X1003615387,5529469,200.0300,INRC,1, 
+X1003615368,5529399,200.0300,INRC,1, 
+X1003615325,5529203,200.0300,INRC,1, 
+X1003615334,5529246,200.0300,INRC,1, 
+X1003615326,5529206,200.0300,INRC,1, 
+X1003615270,5529092,200.0300,INRC,1, 
+X1003615314,5529171,200.0300,INRC,1, 
+X1003615300,5529148,200.0300,INRC,1, 
+X1003615377,5529458,200.0300,INRC,2, 
+X1003615387,5529469,200.0300,INRC,2, 
+X1003615368,5529399,200.0300,INRC,2, 
+X1003615325,5529203,200.0300,INRC,2, 
+X1003615334,5529246,200.0300,INRC,2, 
+X1003615326,5529206,200.0300,INRC,2, 
+X1003615270,5529092,200.0300,INRC,2, 
+X1003615314,5529171,200.0300,INRC,2, 
+X1003615300,5529148,200.0300,INRC,2, 
+X1003615377,5529458,200.0300,INRC,3, 
+X1003615387,5529469,200.0300,INRC,3, 
+X1003615368,5529399,200.0300,INRC,3, 
+X1003615325,5529203,200.0300,INRC,3, 
+X1003615334,5529246,200.0300,INRC,3, 
+X1003615326,5529206,200.0300,INRC,3, 
+X1003615270,5529092,200.0300,INRC,3, 
+X1003615314,5529171,200.0300,INRC,3, 
+X1003615300,5529148,200.0300,INRC,3, 
+X1003615377,5529458,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615387,5529469,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615368,5529399,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615325,5529203,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615334,5529246,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615326,5529206,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615270,5529092,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615314,5529171,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615300,5529148,200.0300,INRC,4,PROPOSED THERAPEUTIC RANGES FOR ORAL ANTICOAGULANT CONTROL
+X1003615377,5529458,200.0300,INRC,5,------------------------------------------------------------
+X1003615387,5529469,200.0300,INRC,5,------------------------------------------------------------
+X1003615368,5529399,200.0300,INRC,5,------------------------------------------------------------
+X1003615325,5529203,200.0300,INRC,5,------------------------------------------------------------
+X1003615334,5529246,200.0300,INRC,5,------------------------------------------------------------
+X1003615326,5529206,200.0300,INRC,5,------------------------------------------------------------
+X1003615270,5529092,200.0300,INRC,5,------------------------------------------------------------
+X1003615314,5529171,200.0300,INRC,5,------------------------------------------------------------
+X1003615300,5529148,200.0300,INRC,5,------------------------------------------------------------
+X1003615377,5529458,200.0300,INRC,6,                                                 INR
+X1003615387,5529469,200.0300,INRC,6,                                                 INR
+X1003615368,5529399,200.0300,INRC,6,                                                 INR
+X1003615325,5529203,200.0300,INRC,6,                                                 INR
+X1003615334,5529246,200.0300,INRC,6,                                                 INR
+X1003615326,5529206,200.0300,INRC,6,                                                 INR
+X1003615270,5529092,200.0300,INRC,6,                                                 INR
+X1003615314,5529171,200.0300,INRC,6,                                                 INR
+X1003615300,5529148,200.0300,INRC,6,                                                 INR
+X1003615377,5529458,200.0300,INRC,7,                                            ----------------
+X1003615387,5529469,200.0300,INRC,7,                                            ----------------
+X1003615368,5529399,200.0300,INRC,7,                                            ----------------
+X1003615325,5529203,200.0300,INRC,7,                                            ----------------
+X1003615334,5529246,200.0300,INRC,7,                                            ----------------
+X1003615326,5529206,200.0300,INRC,7,                                            ----------------
+X1003615270,5529092,200.0300,INRC,7,                                            ----------------
+X1003615314,5529171,200.0300,INRC,7,                                            ----------------
+X1003615300,5529148,200.0300,INRC,7,                                            ----------------
+X1003615377,5529458,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615387,5529469,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615368,5529399,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615325,5529203,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615334,5529246,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615326,5529206,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615270,5529092,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615314,5529171,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615300,5529148,200.0300,INRC,8,CLINICAL STATE                              RANGE    TARGET
+X1003615377,5529458,200.0300,INRC,9,____________________________________________________________
+X1003615387,5529469,200.0300,INRC,9,____________________________________________________________
+X1003615368,5529399,200.0300,INRC,9,____________________________________________________________
+X1003615325,5529203,200.0300,INRC,9,____________________________________________________________
+X1003615334,5529246,200.0300,INRC,9,____________________________________________________________
+X1003615326,5529206,200.0300,INRC,9,____________________________________________________________
+X1003615270,5529092,200.0300,INRC,9,____________________________________________________________
+X1003615314,5529171,200.0300,INRC,9,____________________________________________________________
+X1003615300,5529148,200.0300,INRC,9,____________________________________________________________
+X1003615377,5529458,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615387,5529469,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615368,5529399,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615325,5529203,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615334,5529246,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615326,5529206,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615270,5529092,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615314,5529171,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615300,5529148,200.0300,INRC,10,PRE-AND PERIOPERATIVE ORAL ANTICOAGULATION
+X1003615377,5529458,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615387,5529469,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615368,5529399,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615325,5529203,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615334,5529246,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615326,5529206,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615270,5529092,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615314,5529171,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615300,5529148,200.0300,INRC,11,STARTED TWO WEEKS BEFORES SURGERY
+X1003615377,5529458,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615387,5529469,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615368,5529399,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615325,5529203,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615334,5529246,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615326,5529206,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615270,5529092,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615314,5529171,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615300,5529148,200.0300,INRC,12,     - NOT HIP SURGERY                     1.5-2.5      2
+X1003615377,5529458,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615387,5529469,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615368,5529399,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615325,5529203,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615334,5529246,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615326,5529206,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615270,5529092,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615314,5529171,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615300,5529148,200.0300,INRC,13,     - HIP SURGERY                           2-3        2.3
+X1003615377,5529458,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615387,5529469,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615368,5529399,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615325,5529203,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615334,5529246,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615326,5529206,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615270,5529092,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615314,5529171,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615300,5529148,200.0300,INRC,14,PRIMARY/SECONDARY PREVENTION OF VENOUS
+X1003615377,5529458,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615387,5529469,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615368,5529399,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615325,5529203,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615334,5529246,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615326,5529206,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615270,5529092,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615314,5529171,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615300,5529148,200.0300,INRC,15,THROMBOSIS                                   2-3        2.5
+X1003615377,5529458,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615387,5529469,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615368,5529399,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615325,5529203,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615334,5529246,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615326,5529206,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615270,5529092,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615314,5529171,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615300,5529148,200.0300,INRC,16,ACTIVE VENOUS THROMBOSIS PULMONARY 
+X1003615377,5529458,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615387,5529469,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615368,5529399,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615325,5529203,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615334,5529246,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615326,5529206,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615270,5529092,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615314,5529171,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615300,5529148,200.0300,INRC,17,EMBOLISM AND PREVENTION OF RECURRENT
+X1003615377,5529458,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615387,5529469,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615368,5529399,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615325,5529203,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615334,5529246,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615326,5529206,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615270,5529092,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615314,5529171,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615300,5529148,200.0300,INRC,18,VENOUS THROMBOSIS                            2-4        3.5
+X1003615377,5529458,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615387,5529469,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615368,5529399,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615325,5529203,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615334,5529246,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615326,5529206,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615270,5529092,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615314,5529171,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615300,5529148,200.0300,INRC,19,PREVENTION OF ARTERIAL THROMBO-EMBOLISM      
+X1003615377,5529458,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615387,5529469,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615368,5529399,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615325,5529203,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615334,5529246,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615326,5529206,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615270,5529092,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615314,5529171,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615300,5529148,200.0300,INRC,20,INCLUDING PATIENTS WITH MECHANICAL
+X1003615377,5529458,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615387,5529469,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615368,5529399,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615325,5529203,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615334,5529246,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615326,5529206,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615270,5529092,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615314,5529171,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615300,5529148,200.0300,INRC,21,HEART VALVES                                 3-4.5       3.5
+X1003615264,5529046,300.191,LEUFE,1,BY NEW METHYLINE BLUE
+X1003615351,5529307,300.191,LEUFE,1,BY NEW METHYLINE BLUE
+X1003615377,5529434,400.88481,PROBNP1,1,The most appropriate decision thereshold apparent are:
+X1003615316,5529186,400.88481,PROBNP1,1,The most appropriate decision thereshold apparent are:
+X1003615377,5529434,400.88481,PROBNP1,2,        for patients younger than 75 years are 125 pg/ml
+X1003615316,5529186,400.88481,PROBNP1,2,        for patients younger than 75 years are 125 pg/ml
+X1003615377,5529434,400.88481,PROBNP1,3,        for patients 75 years or older are 450 pg/ml
+X1003615316,5529186,400.88481,PROBNP1,3,        for patients 75 years or older are 450 pg/ml
+X1003615316,5529186,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615300,5529151,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615299,5529145,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615299,5529188,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615325,5529200,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615325,5529201,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615334,5529248,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615377,5529434,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615368,5529402,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615378,5529413,400.88475,TNIH,1,A CUTOFF OF 82.4 pg/ml IS RECOMENDED FOR DIAGNOSIS OF AMI.
+X1003615342,5529301,700.9028,BINAXNOWAG,1, 
+X1003615346,5529327,700.9028,BINAXNOWAG,1, 
+X1003615352,5529333,700.9028,BINAXNOWAG,1, 
+X1003615361,5529334,700.9028,BINAXNOWAG,1, 
+X1003615353,5529340,700.9028,BINAXNOWAG,1, 
+X1003615359,5529354,700.9028,BINAXNOWAG,1, 
+X1003615368,5529397,700.9028,BINAXNOWAG,1, 
+X1003615390,5529464,700.9028,BINAXNOWAG,1, 
+X1003615387,5529467,700.9028,BINAXNOWAG,1, 
+X1003615393,5529461,700.9028,BINAXNOWAG,1, 
+X1003615379,5529418,700.9028,BINAXNOWAG,1, 
+X1003615329,5529249,700.9028,BINAXNOWAG,1, 
+X1003615328,5529209,700.9028,BINAXNOWAG,1, 
+X1003615266,5529044,700.9028,BINAXNOWAG,1, 
+X1003615289,5529116,700.9028,BINAXNOWAG,1, 
+X1003615377,5529443,700.9028,BINAXNOWAG,1, 
+X1003615367,5529415,700.9028,BINAXNOWAG,1, 
+X1003615339,5529281,700.9028,BINAXNOWAG,1, 
+X1003615322,5529194,700.9028,BINAXNOWAG,1, 
+X1003615299,5529142,700.9028,BINAXNOWAG,1, 
+X1003615321,5529189,700.9028,BINAXNOWAG,1, 
+X1003615262,5529053,700.9028,BINAXNOWAG,1, 
+X1003615263,5529058,700.9028,BINAXNOWAG,1, 
+X1003615358,5529358,700.9028,BINAXNOWAG,1, 
+X1003615363,5529392,700.9028,BINAXNOWAG,1, 
+X1003615351,5529308,700.9028,BINAXNOWAG,1, 
+X1003615338,5529291,700.9028,BINAXNOWAG,1, 
+X1003615330,5529259,700.9028,BINAXNOWAG,1, 
+X1003615332,5529261,700.9028,BINAXNOWAG,1, 
+X1003615342,5529301,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615346,5529327,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615352,5529333,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615361,5529334,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615353,5529340,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615359,5529354,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615368,5529397,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615390,5529464,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615387,5529467,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615393,5529461,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615379,5529418,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615329,5529249,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615328,5529209,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615266,5529044,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615289,5529116,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615377,5529443,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615367,5529415,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615339,5529281,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615322,5529194,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615299,5529142,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615321,5529189,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615262,5529053,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615263,5529058,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615358,5529358,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615363,5529392,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615351,5529308,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615338,5529291,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615330,5529259,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615332,5529261,700.9028,BINAXNOWAG,2,METHOD: BinaxNOW COVID-19 Ag CARD.
+X1003615342,5529301,700.9028,BINAXNOWAG,3, 
+X1003615346,5529327,700.9028,BINAXNOWAG,3, 
+X1003615352,5529333,700.9028,BINAXNOWAG,3, 
+X1003615361,5529334,700.9028,BINAXNOWAG,3, 
+X1003615353,5529340,700.9028,BINAXNOWAG,3, 
+X1003615359,5529354,700.9028,BINAXNOWAG,3, 
+X1003615368,5529397,700.9028,BINAXNOWAG,3, 
+X1003615390,5529464,700.9028,BINAXNOWAG,3, 
+X1003615387,5529467,700.9028,BINAXNOWAG,3, 
+X1003615393,5529461,700.9028,BINAXNOWAG,3, 
+X1003615379,5529418,700.9028,BINAXNOWAG,3, 
+X1003615329,5529249,700.9028,BINAXNOWAG,3, 
+X1003615328,5529209,700.9028,BINAXNOWAG,3, 
+X1003615266,5529044,700.9028,BINAXNOWAG,3, 
+X1003615289,5529116,700.9028,BINAXNOWAG,3, 
+X1003615377,5529443,700.9028,BINAXNOWAG,3, 
+X1003615367,5529415,700.9028,BINAXNOWAG,3, 
+X1003615339,5529281,700.9028,BINAXNOWAG,3, 
+X1003615322,5529194,700.9028,BINAXNOWAG,3, 
+X1003615299,5529142,700.9028,BINAXNOWAG,3, 
+X1003615321,5529189,700.9028,BINAXNOWAG,3, 
+X1003615262,5529053,700.9028,BINAXNOWAG,3, 
+X1003615263,5529058,700.9028,BINAXNOWAG,3, 
+X1003615358,5529358,700.9028,BINAXNOWAG,3, 
+X1003615363,5529392,700.9028,BINAXNOWAG,3, 
+X1003615351,5529308,700.9028,BINAXNOWAG,3, 
+X1003615338,5529291,700.9028,BINAXNOWAG,3, 
+X1003615330,5529259,700.9028,BINAXNOWAG,3, 
+X1003615332,5529261,700.9028,BINAXNOWAG,3, 
+X1003615342,5529301,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615346,5529327,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615352,5529333,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615361,5529334,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615353,5529340,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615359,5529354,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615368,5529397,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615390,5529464,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615387,5529467,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615393,5529461,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615379,5529418,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615329,5529249,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615328,5529209,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615266,5529044,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615289,5529116,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615328,5529209,700.9028,BINAXNOWAG,7, 
+X1003615266,5529044,700.9028,BINAXNOWAG,7, 
+X1003615289,5529116,700.9028,BINAXNOWAG,7, 
+X1003615377,5529443,700.9028,BINAXNOWAG,7, 
+X1003615367,5529415,700.9028,BINAXNOWAG,7, 
+X1003615339,5529281,700.9028,BINAXNOWAG,7, 
+X1003615322,5529194,700.9028,BINAXNOWAG,7, 
+X1003615299,5529142,700.9028,BINAXNOWAG,7, 
+X1003615321,5529189,700.9028,BINAXNOWAG,7, 
+X1003615262,5529053,700.9028,BINAXNOWAG,7, 
+X1003615263,5529058,700.9028,BINAXNOWAG,7, 
+X1003615358,5529358,700.9028,BINAXNOWAG,7, 
+X1003615363,5529392,700.9028,BINAXNOWAG,7, 
+X1003615351,5529308,700.9028,BINAXNOWAG,7, 
+X1003615338,5529291,700.9028,BINAXNOWAG,7, 
+X1003615330,5529259,700.9028,BINAXNOWAG,7, 
+X1003615332,5529261,700.9028,BINAXNOWAG,7, 
+X1003615342,5529301,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615346,5529327,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615352,5529333,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615361,5529334,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615353,5529340,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615359,5529354,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615368,5529397,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615390,5529464,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615387,5529467,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615393,5529461,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615379,5529418,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615329,5529249,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615328,5529209,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615266,5529044,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615289,5529116,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615377,5529443,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615367,5529415,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615339,5529281,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615322,5529194,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615299,5529142,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615321,5529189,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615262,5529053,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615263,5529058,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615358,5529358,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615363,5529392,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615351,5529308,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615338,5529291,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615330,5529259,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615332,5529261,700.9028,BINAXNOWAG,8,This test has been authorized for Use Under an Emergency
+X1003615342,5529301,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615346,5529327,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615352,5529333,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615361,5529334,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615353,5529340,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615359,5529354,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615368,5529397,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615390,5529464,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615387,5529467,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615393,5529461,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615379,5529418,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615329,5529249,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615328,5529209,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615266,5529044,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615289,5529116,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615377,5529443,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615367,5529415,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615339,5529281,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615322,5529194,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615299,5529142,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615321,5529189,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615262,5529053,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615263,5529058,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615358,5529358,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615363,5529392,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615351,5529308,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615338,5529291,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615330,5529259,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615332,5529261,700.9028,BINAXNOWAG,9,Use Authorization (EUA) Only.
+X1003615342,5529301,700.9028,BINAXNOWAG,10, 
+X1003615346,5529327,700.9028,BINAXNOWAG,10, 
+X1003615352,5529333,700.9028,BINAXNOWAG,10, 
+X1003615361,5529334,700.9028,BINAXNOWAG,10, 
+X1003615353,5529340,700.9028,BINAXNOWAG,10, 
+X1003615359,5529354,700.9028,BINAXNOWAG,10, 
+X1003615368,5529397,700.9028,BINAXNOWAG,10, 
+X1003615390,5529464,700.9028,BINAXNOWAG,10, 
+X1003615387,5529467,700.9028,BINAXNOWAG,10, 
+X1003615393,5529461,700.9028,BINAXNOWAG,10, 
+X1003615379,5529418,700.9028,BINAXNOWAG,10, 
+X1003615329,5529249,700.9028,BINAXNOWAG,10, 
+X1003615328,5529209,700.9028,BINAXNOWAG,10, 
+X1003615266,5529044,700.9028,BINAXNOWAG,10, 
+X1003615289,5529116,700.9028,BINAXNOWAG,10, 
+X1003615377,5529443,700.9028,BINAXNOWAG,10, 
+X1003615377,5529443,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615367,5529415,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615339,5529281,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615322,5529194,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615299,5529142,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615321,5529189,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615262,5529053,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615263,5529058,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615358,5529358,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615363,5529392,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615351,5529308,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615338,5529291,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615330,5529259,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615332,5529261,700.9028,BINAXNOWAG,4,This method is a rapid lateral flow immunoassay for the
+X1003615342,5529301,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615346,5529327,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615352,5529333,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615361,5529334,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615353,5529340,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615359,5529354,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615368,5529397,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615390,5529464,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615387,5529467,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615393,5529461,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615379,5529418,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615329,5529249,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615328,5529209,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615266,5529044,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615289,5529116,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615377,5529443,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615367,5529415,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615339,5529281,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615322,5529194,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615299,5529142,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615321,5529189,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615262,5529053,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615263,5529058,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615358,5529358,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615363,5529392,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615351,5529308,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615338,5529291,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615330,5529259,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615332,5529261,700.9028,BINAXNOWAG,5,qualitative detection and diagnosis of SARS-CoV-2 directly
+X1003615342,5529301,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615346,5529327,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615352,5529333,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615361,5529334,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615353,5529340,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615359,5529354,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615368,5529397,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615390,5529464,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615387,5529467,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615393,5529461,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615379,5529418,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615329,5529249,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615328,5529209,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615266,5529044,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615289,5529116,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615377,5529443,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615367,5529415,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615339,5529281,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615322,5529194,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615299,5529142,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615321,5529189,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615262,5529053,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615263,5529058,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615358,5529358,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615363,5529392,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615351,5529308,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615338,5529291,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615330,5529259,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615332,5529261,700.9028,BINAXNOWAG,6,from nasal swabs.
+X1003615342,5529301,700.9028,BINAXNOWAG,7, 
+X1003615346,5529327,700.9028,BINAXNOWAG,7, 
+X1003615352,5529333,700.9028,BINAXNOWAG,7, 
+X1003615361,5529334,700.9028,BINAXNOWAG,7, 
+X1003615353,5529340,700.9028,BINAXNOWAG,7, 
+X1003615359,5529354,700.9028,BINAXNOWAG,7, 
+X1003615368,5529397,700.9028,BINAXNOWAG,7, 
+X1003615390,5529464,700.9028,BINAXNOWAG,7, 
+X1003615387,5529467,700.9028,BINAXNOWAG,7, 
+X1003615393,5529461,700.9028,BINAXNOWAG,7, 
+X1003615379,5529418,700.9028,BINAXNOWAG,7, 
+X1003615329,5529249,700.9028,BINAXNOWAG,7, 
